@@ -1,0 +1,17 @@
+name: travel_stories
+channels:
+  - conda-forge
+dependencies:
+  - python=3.9
+  - numpy
+  - pandas
+  - pyproj
+  - shapely
+  - geopandas
+  - bokeh
+  - matplotlib
+  - holoviews
+  - geoviews
+  - folium
+  - notebook
+  
